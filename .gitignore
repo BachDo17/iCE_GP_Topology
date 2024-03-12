@@ -1,0 +1,8 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+iCE_GP.pdf
+*.spl
+*.gz
